@@ -1,4 +1,4 @@
 Hello,
 
-I am new in Git!
+I am new in Git! what are you doing?
 
